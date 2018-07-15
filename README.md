@@ -225,6 +225,7 @@
 - [Jupyter](http://jupyter.org/): IPython Notebook, 有个子项目sparkmagic，可以和Spark集合在一起，类似spark-notebook项目
 - [Swagger](http://swagger.io/): RESTful API设计工具，前后端分离项目必备，顺便推荐下[Easy Mock](https://www.easy-mock.com/)
 - [Flutter](https://flutter.io/): Google出品，高性能跨平台移动应用开发框架
+- [OpenZipkin](https://zipkin.io/): 分布式Trace系统，可用于分析服务调用链间的消耗
 - [Phabricator](https://secure.phabricator.com/): 软件开发平台，Facebook出品，现已开源，CodeReview神器（从这个往下一直到GitLab之间的工具统统可以忽略了）
 - Redmine/Trac：项目管理平台
 - Jenkins/Jira(非开源)：持续集成系统（Apache Continuum，这个是Apache下的CI系统，还没来得及研究）
@@ -302,7 +303,8 @@
 - tinyproxy:（Linux）小型的代理服务器支持http和https协议
 - EaseUS Partition Master：超级简单的分区调整工具，速度还是蛮快的，C盘不够用了就用它从D盘划点空间吧，不用重装系统这么折腾哦。
 - CheatEngine：玩游戏修改内存值必备神器（记得我在玩轩辕剑6的时候就用的它，超级方便呢）
-- ApkIDE: Android反编译神器
+- ApkIDE: Android反编译神器（类似的还有apktool）
+- HandShaker: 锤子的良心之作：为解决安卓手机与Mac当中文件传输问题，专门开发的SmartFinder文件管理器改进版
 - 翻、墙工具（自|由|门、天行浏览器，免费的VPN：http://www.mangovpn.com/）,发现最方便还属Lantern，免费用起来超级方便（更新于2015-08-22）
 - 设计工具：Sketch、OmniGraffle
 - MindManger：思维导图
